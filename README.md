@@ -1,22 +1,7 @@
-# 📦 Abhinav Tamta's CHatbot app
+#  Abhinav Tamta's Chatbot app
 
-```
-⬆️ (Replace above with your app's name)
-```
+To build a GPT-4 chatbot using the ChatGPT API and Streamlit Chat. ChatGPT is an advanced language model by OpenAI that can generate human-like text based on user inputs. Streamlit is a popular open-source framework that allows developers to create interactive web applications easily. By combining the capabilities of ChatGPT and Streamlit, we will create a simple yet powerful chatbot that can answer user queries about artificial intelligence (AI).
 
-Description of the app ...
 
-## Demo App
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://starter-kit.streamlitapp.com/)
 
-## Section Heading
-
-This is filler text, please replace this with text for this section.
-
-## Further Reading
-
-This is filler text, please replace this with a explanatory text about further relevant resources for this repo
-- Resource 1
-- Resource 2
-- Resource 3
